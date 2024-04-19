@@ -40,7 +40,7 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/scholarv0.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/tsan.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Transcoded Video Restoration by Temporal Spatial Auxiliary Network](https://ojs.aaai.org/index.php/AAAI/article/view/20192)
@@ -82,7 +82,7 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 # 📖 Educations
 
 - *2020.03 - present*, PhD student in Information and Communication Engineering, Xidian University, Xi’an, China
-- *2022.10-2024.01*, Guest researcher in Faculty of Science, University of Amsterdam, Netherlands
+- *2022.10-2024.01*, Guest researcher in Faculty of Science, University of Amsterdam, Amsterdam, Netherlands
 - *2018.09 - 2020.02*, Master Student in Information and Communication Engineering, Xidian University, Xi’an, China
 - *2014.09 - 2018.06*, B.S. in Communication Engineering, Chongqing University, China
 
