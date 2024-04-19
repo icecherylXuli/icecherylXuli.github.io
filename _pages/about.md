@@ -40,7 +40,7 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/tsan.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/tsan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Transcoded Video Restoration by Temporal Spatial Auxiliary Network](https://ojs.aaai.org/index.php/AAAI/article/view/20192)
