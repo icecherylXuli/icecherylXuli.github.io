@@ -40,6 +40,20 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/PGTFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer](https://arxiv.org/abs/2404.13640)
+
+**Kepeng Xu**, Li Xu, Gang He et al.[![](https://img.shields.io/github/stars/kepengxu/PGTFormer?style=social&label=Code+Stars)](https://github.com/kepengxu/PGTFormer)
+
+[**Project**](https://kepengxu.github.io/projects/pgtformer/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/tsan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -59,7 +73,7 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- `IJCAI 2024` Kepeng Xu, **Li Xu**, Gang He, Wenxin Yu, Yunsong Li. Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer [C]. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence. 2024.
+- `IJCAI 2024` Kepeng Xu, **Li Xu**, Gang He, Wenxin Yu, Yunsong Li. Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer [C]. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, Jeju, Korea, 2024.
 
 - `NC` Gang He, Shaoyi Long, **Li Xu**, Chang Wu, Jinjia Zhou, Ming Sun, Yurong Dai. [Global priors guided modulation network for joint super-resolution and SDRTV-to-HDRTV](https://www.sciencedirect.com/science/article/pii/S0925231223007130?casa_token=dyd1LXpYIiMAAAAA:VkaC2NOqCTZDUS4vr8ZiilAxnEWV4glmh41ZVysOZxYflDq4o8pvlsDiup1QMjHUF6ETQyFAYbs) [J]. Neurocomputing 554 (2023): 126590.
 - `Arxiv` Kepeng Xu*,* **Li Xu**, Gang He, Wenxin Yu, Yunsong Li. [Towards Robust SDRTV-to-HDRTV via Dual Inverse Degradation Network](https://arxiv.org/html/2307.03394v2). 2023.
@@ -81,9 +95,9 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 # 📖 Educations
 
-- *2020.03 - present*, PhD student in Information and Communication Engineering, Xidian University, Xi’an, China
-- *2022.10-2024.01*, Guest researcher in Faculty of Science, University of Amsterdam, Amsterdam, Netherlands
-- *2018.09 - 2020.02*, Master Student in Information and Communication Engineering, Xidian University, Xi’an, China
+- *2020.03 - present*, Ph.D. student in Information and Communication Engineering, Xidian University, Xi’an, China
+- *2022.10 - 2024.01*, Guest researcher in Faculty of Science, University of Amsterdam, Amsterdam, Netherlands
+- *2018.09 - 2020.02*, Master student in Information and Communication Engineering, Xidian University, Xi’an, China
 - *2014.09 - 2018.06*, B.S. in Communication Engineering, Chongqing University, China
 
 
