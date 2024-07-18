@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Profile
-I am currently pursuing a Ph.D. at Xidian University, focusing on research areas including video compression, high dynamic range video generation, and video enhancement.
+I am a Postdoctoral Research Fellow at State Key Laboratory of Integrated Service Networks, Xidian University. Currently, I am focusing on research areas including video compression, video enhancement, and high dynamic range video generation.
 
 ## Research and Publications
 To date, I have authored over 10 scholarly articles and actively participate as a peer reviewer for top-tier journals such as T-CVST, T-NNLS, T-BC. My work primarily explores the intersections of image processing and compression in digital media technologies.
@@ -30,6 +30,9 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 
 # 🔥 News
+- *2024.07*: 🎉 One paper is accepted by T-IV
+- *2024.07*: 🎉 One paper is accepted by ACMMM 2024
+- *2024.06*: 🎉 Completed my Ph.D. at Xidian University 
 - *2024.04*: 🎉 One paper is accepted by IJCAI 2024
 
 
@@ -39,6 +42,35 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 - *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK! -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IV</div><img src='images/PCIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pedestrian-Vehicle Information Modulation for Pedestrian Crossing Intention Prediction]
+
+**Li Xu**, Shaodi You, Gang He, and Yunsong Li. [![](https://github.com/icecherylXuli/PVIM?style=social&label=Code+Stars)](https://github.com/icecherylXuli/PVIM)
+
+
+[**Project**](https://icecherylxuli.github.io/projects/PVIM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Pedetrian-vehicle information modulation network for PCIP
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2024</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An End-to-End Real-World Camera Imaging Pipeline](https://kepengxu.github.io/projects/realcamnet/realcamnet.pdf)
+
+Kepeng Xu, Zijia Ma, **Li Xu**,Gang He et al.[![](https://img.shields.io/github/stars/kepengxu/RealCamNet?style=social&label=Code+Stars)](https://github.com/kepengxu/RealCamNet)
+
+
+[**Project**](https://kepengxu.github.io/projects/realcamnet/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- End-to-end imaging pipeline for complex distortions
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/PGTFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,12 +98,15 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 <!-- - `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS) -->
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - Provides better transcoded video quality.
 </div>
 </div>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- `T-IV` **Li Xu**, Shaodi You, Gang He, Yunsong Li. Interlayer Restoration Deep Neural Network for Scalable High Efficiency Video Coding [J]. IEEE Transactions on Intelligent Vehicles.
+
+- `ACMMM 2024` Kepeng Xu, Zijia Ma, **Li Xu**, Gang He, Yunsong Li, Wenxin Yu, Taichu Han, Cheng Yang. An End-to-End Real-World Camera Imaging Pipeline, Melbourne, Australia, 2024.
 
 - `IJCAI 2024` Kepeng Xu, **Li Xu**, Gang He, Wenxin Yu, Yunsong Li. Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer [C]. Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence, Jeju, Korea, 2024.
 
@@ -95,7 +130,7 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 # 📖 Educations
 
-- *2020.03 - present*, Ph.D. student in Information and Communication Engineering, Xidian University, Xi’an, China
+- *2020.03 - 2024.06*, Ph.D. student in Information and Communication Engineering, Xidian University, Xi’an, China
 - *2022.10 - 2024.01*, Guest researcher in Faculty of Science, University of Amsterdam, Amsterdam, Netherlands
 - *2018.09 - 2020.02*, Master student in Information and Communication Engineering, Xidian University, Xi’an, China
 - *2014.09 - 2018.06*, B.S. in Communication Engineering, Chongqing University, China
