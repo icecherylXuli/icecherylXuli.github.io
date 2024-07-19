@@ -45,7 +45,7 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IV</div><img src='images/PCIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Pedestrian-Vehicle Information Modulation for Pedestrian Crossing Intention Prediction]
+Pedestrian-Vehicle Information Modulation for Pedestrian Crossing Intention Prediction
 
 **Li Xu**, Shaodi You, Gang He, and Yunsong Li. [![](https://github.com/icecherylXuli/PVIM?style=social&label=Code+Stars)](https://github.com/icecherylXuli/PVIM)
 
@@ -104,7 +104,7 @@ Kepeng Xu, Zijia Ma, **Li Xu**,Gang He et al.[![](https://img.shields.io/github/
 </div>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-- `T-IV` **Li Xu**, Shaodi You, Gang He, Yunsong Li. Interlayer Restoration Deep Neural Network for Scalable High Efficiency Video Coding [J]. IEEE Transactions on Intelligent Vehicles.
+- `T-IV` **Li Xu**, Shaodi You, Gang He, Yunsong Li. Pedestrian-Vehicle Information Modulation for Pedestrian Crossing Intention Prediction [J]. IEEE Transactions on Intelligent Vehicles.
 
 - `ACMMM 2024` Kepeng Xu, Zijia Ma, **Li Xu**, Gang He, Yunsong Li, Wenxin Yu, Taichu Han, Cheng Yang. An End-to-End Real-World Camera Imaging Pipeline, Melbourne, Australia, 2024.
 
