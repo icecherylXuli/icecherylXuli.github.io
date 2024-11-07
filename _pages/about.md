@@ -45,9 +45,9 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-IV</div><img src='images/PCIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Pedestrian-Vehicle Information Modulation for Pedestrian Crossing Intention Prediction
+[Pedestrian-Vehicle Information Modulation for Pedestrian Crossing Intention Prediction](https://ieeexplore.ieee.org/abstract/document/10670215)
 
-**Li Xu**, Shaodi You, Gang He, and Yunsong Li. [![](https://github.com/icecherylXuli/PVIM?style=social&label=Code+Stars)](https://github.com/icecherylXuli/PVIM)
+**Li Xu**, Shaodi You, Gang He, and Yunsong Li. [![](https://img.shields.io/github/stars/icecherylXuli/PVIM?style=social&label=Code+Stars)](https://github.com/icecherylXuli/PVIM)
 
 
 [**Project**](https://icecherylxuli.github.io/projects/PVIM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
