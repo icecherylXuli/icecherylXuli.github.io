@@ -30,7 +30,10 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 
 # 🔥 News
+- *2025.11*: 🎉 One papers are  accepted by AAAI (Oral)
+- *2025.07*: 🎉 Received funding from China Postdoctoral Science Foundation under Grant 2025M773501
 - *2025.04*: 🎉 Two papers are  accepted by IJCAI
+- *2025.03*: 🎉 Received funding from the Fundamental Research Funds for the Central Universities under Grant ZYTS25270
 - *2024.07*: 🎉 One paper is accepted by T-IV
 - *2024.07*: 🎉 One paper is accepted by ACMMM 2024
 - *2024.06*: 🎉 Completed my Ph.D. at Xidian University 
@@ -39,7 +42,19 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 
 # 📝 Publications 
+<!-- RealRep -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-26 (Oral)</div><img src='images\RealRep.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[RealRep: Generalized SDR-to-HDR Conversion via Attribute-Disentangled Representation Learning](https://arxiv.org/abs/2505.07322v3)
+
+**Li Xu**, Siqi Wang, Kepeng Xu, Gang He, Lin Zhang, Weiran Wang, Yu-Wing Tai.
+
+
+[**Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A more generalizable real-world SDRTV to HDRTV conversion method via Representation Learning
+</div>
+</div>
 
 <!-- hdfacerestoration -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-25</div><img src='images\hdfacerestoration.jpg' alt="sym" width="100%"></div></div>
