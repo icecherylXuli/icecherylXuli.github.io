@@ -60,7 +60,7 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-25</div><img src='images\hdfacerestoration.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration]
+[Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration](https://www.ijcai.org/proceedings/2025/234)
 
 Kepeng Xu, **Li Xu**, Gang He, Wei Chen, Xianyun Wu, Wenxin Yu.
 
@@ -74,7 +74,7 @@ Kepeng Xu, **Li Xu**, Gang He, Wei Chen, Xianyun Wu, Wenxin Yu.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI-25</div><img src='images\realhdrtvnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Feature Mapping GAP: Integrating Real HDRTV Priors for Superior SDRTV-to-HDRTV Conversion](https://arxiv.org/abs/2411.10775)
+[Beyond Feature Mapping GAP: Integrating Real HDRTV Priors for Superior SDRTV-to-HDRTV Conversion](https://www.ijcai.org/proceedings/2025/122)
 
 Gang He, Kepeng Xu, **Li Xu**, Zhiqiang Zhang, Wenxin Yu, Shihao Wang, Dajiang Zhou, Yunsong Li.
 
