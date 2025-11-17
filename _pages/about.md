@@ -43,7 +43,7 @@ My research team, Kingslayer, secured third place in the Perceptual Metric Track
 
 # 📝 Publications 
 <!-- RealRep -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-26 (Oral)</div><img src='images\RealRep.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI-26 (Oral)</div><img src='images\RealRep.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RealRep: Generalized SDR-to-HDR Conversion via Attribute-Disentangled Representation Learning](https://arxiv.org/abs/2505.07322v3)
