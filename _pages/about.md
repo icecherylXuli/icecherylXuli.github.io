@@ -77,7 +77,7 @@ I serve as a reviewer for CVPR, AAAI, IJCAI, ACM MM, IEEE T-CSVT, IEEE TNNLS, an
 
 # 📝 Selected Publications 
 <!-- RealRep -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/RealRep.png' alt="RealRep overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026 Oral</div><img src='images/RealRep.png?v={{ site.asset_version }}' alt="RealRep overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RealRep: Generalized SDR-to-HDR Conversion via Attribute-Disentangled Representation Learning](https://arxiv.org/abs/2505.07322v3)
@@ -89,7 +89,7 @@ I serve as a reviewer for CVPR, AAAI, IJCAI, ACM MM, IEEE T-CSVT, IEEE TNNLS, an
 </div>
 
 <!-- hdfacerestoration -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/hdfacerestoration.jpg' alt="Face restoration overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/hdfacerestoration.jpg?v={{ site.asset_version }}' alt="Face restoration overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Unleashing the Potential of Transformer Flow for Photorealistic Face Restoration](https://www.ijcai.org/proceedings/2025/234)
@@ -102,7 +102,7 @@ Kepeng Xu, **Li Xu**, Gang He, Wei Chen, Xianyun Wu, Wenxin Yu.
 </div>
 
 <!-- realhdrtvnet -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/realhdrtvnet.png' alt="RealHDRTVNet overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/realhdrtvnet.png?v={{ site.asset_version }}' alt="RealHDRTVNet overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Feature Mapping GAP: Integrating Real HDRTV Priors for Superior SDRTV-to-HDRTV Conversion](https://www.ijcai.org/proceedings/2025/122)
@@ -114,7 +114,7 @@ Gang He, Kepeng Xu, **Li Xu**, Zhiqiang Zhang, Wenxin Yu, Shihao Wang, Dajiang Z
 </div>
 
 <!-- PVIM -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-IV</div><img src='images/PCIP.png' alt="PVIM overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-IV</div><img src='images/PCIP.png?v={{ site.asset_version }}' alt="PVIM overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Pedestrian-Vehicle Information Modulation for Pedestrian Crossing Intention Prediction
@@ -129,7 +129,7 @@ Pedestrian-Vehicle Information Modulation for Pedestrian Crossing Intention Pred
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/framework.png' alt="RealCamNet overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/framework.png?v={{ site.asset_version }}' alt="RealCamNet overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An End-to-End Real-World Camera Imaging Pipeline](https://kepengxu.github.io/projects/realcamnet/realcamnet.pdf)
@@ -144,7 +144,7 @@ Kepeng Xu, Zijia Ma, **Li Xu**, Gang He, et al. [![](https://img.shields.io/gith
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/PGTFormer.png' alt="PGTFormer overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/PGTFormer.png?v={{ site.asset_version }}' alt="PGTFormer overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Alignment: Blind Video Face Restoration via Parsing-Guided Temporal-Coherent Transformer](https://arxiv.org/abs/2404.13640)
@@ -156,7 +156,7 @@ Kepeng Xu, **Li Xu**, Gang He, et al. [![](https://img.shields.io/github/stars/k
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/mmimage.jpg' alt="HDCFM overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/mmimage.jpg?v={{ site.asset_version }}' alt="HDCFM overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SDRTV-to-HDRTV via Hierarchical Dynamic Context Feature Mapping](https://arxiv.org/abs/2207.00319)
@@ -169,7 +169,7 @@ Gang He, Kepeng Xu, **Li Xu**, Chang Wu, Ming Sun, Xing Wen, Yu-Wing Tai. [![](h
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/tsan.png' alt="TSAN overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/tsan.png?v={{ site.asset_version }}' alt="TSAN overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Transcoded Video Restoration by Temporal Spatial Auxiliary Network](https://ojs.aaai.org/index.php/AAAI/article/view/20192)
