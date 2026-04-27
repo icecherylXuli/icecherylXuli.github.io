@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Li Xu (徐莉)"
-description              : "Ph.D. student at Xidian University, focus on cutting-edge technology research in the fields of video image enhancement, video compression, and computational imaging."
+description              : "Postdoctoral Research Fellow, State Key Laboratory of Integrated Service Networks, Xidian University"
 repository               : "icecherylXuli/icecherylXuli.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Li Xu (徐莉)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Xidian University"
+  # bio              : "Xidian University"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_KJ75xYAAAAJ"
-  email            : "cherylxu@stu.xidian.edu.cn"
+  email            : "xuli@xidian.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : 
